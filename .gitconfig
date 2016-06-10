@@ -1,0 +1,7 @@
+[user]
+	name = Ahmed benzitoune
+	email = A7hmed@hotmail.fr
+[core]
+	editor = gedit
+[merge]
+	tool = vimdiff
